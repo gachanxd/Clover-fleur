@@ -1,3 +1,15 @@
+<p align="center">
+  <img src="assets/banner.png" alt="Clover Project Banner" width="800"/>
+</p>
+
+<p align="center">
+  <a href="https://github.com/gachanxd/Clover-fleur/releases">
+    <img src="https://img.shields.io/github/v/release/gachanxd/Clover-fleur?style=for-the-badge&logo=android" alt="Latest Release"/>
+  </a>
+  <img src="https://img.shields.io/badge/Android-15-blue?style=for-the-badge&logo=android"/>
+  <img src="https://img.shields.io/badge/Device-Fleur-green?style=for-the-badge&logo=xiaomi"/>
+  <img src="https://img.shields.io/badge/Status-UNOFFICIAL-orange?style=for-the-badge"/>
+</p>
 # Clover Project for Xiaomi Fleur (MT6781)
 
 ![Android](https://img.shields.io/badge/Android-15-blue.svg)
